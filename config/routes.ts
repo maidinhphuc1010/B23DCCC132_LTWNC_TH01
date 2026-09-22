@@ -20,7 +20,7 @@
 	// DEFAULT MENU
 	{
 		path: '/dashboard',
-		name: 'Dashboard',
+		name: 'Bài tập của tôi',
 		component: './TrangChu',
 		icon: 'HomeOutlined',
 	},
